@@ -1,0 +1,2 @@
+Taruh foto kalian di sini. Namai 1.jpg, 2.jpg, 3.jpg dst,
+atau ganti nama file di script.js bagian C.foto dan C.momen.
